@@ -1,0 +1,14 @@
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\bin\Debug\netcoreapp2.1\Products.Api.deps.json
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\bin\Debug\netcoreapp2.1\Products.Api.runtimeconfig.json
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\bin\Debug\netcoreapp2.1\Products.Api.runtimeconfig.dev.json
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\bin\Debug\netcoreapp2.1\Products.Api.dll
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.RazorAssemblyInfo.cache
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.RazorAssemblyInfo.cs
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.AssemblyInfoInputs.cache
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.AssemblyInfo.cs
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\bin\Debug\netcoreapp2.1\Products.Api.pdb
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.dll
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.pdb
+C:\Users\Krystian\Desktop\development\Products\Products.Api\Products.Api\obj\Debug\netcoreapp2.1\Products.Api.csprojAssemblyReference.cache
